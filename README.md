@@ -32,4 +32,5 @@ npm start
 
 Neel Chavan
 ![frist screenshot]("https://github.com/neel0606/e-commerce-website/blob/adc731f845732e10b2bfa2c3af62f8086de70087/Screenshot%202026-06-07%20220136.png")
+![second screenshot]("https://github.com/neel0606/e-commerce-website/blob/a60edc94f1a8bdbfb688250a6b7da46b9b70c2b9/Screenshot%202026-06-07%20220205.png")
 
